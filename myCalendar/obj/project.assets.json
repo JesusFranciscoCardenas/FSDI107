@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uabc\\Documents\\GitHub\\Courses\\FSDI107\\myCalendar\\myCalendar.csproj",
+      "projectUniqueName": "C:\\Users\\uabc\\Documents\\GitHub\\FSDI\\FSDI107\\myCalendar\\myCalendar.csproj",
       "projectName": "myCalendar",
-      "projectPath": "C:\\Users\\uabc\\Documents\\GitHub\\Courses\\FSDI107\\myCalendar\\myCalendar.csproj",
+      "projectPath": "C:\\Users\\uabc\\Documents\\GitHub\\FSDI\\FSDI107\\myCalendar\\myCalendar.csproj",
       "packagesPath": "C:\\Users\\uabc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uabc\\Documents\\GitHub\\Courses\\FSDI107\\myCalendar\\obj\\",
+      "outputPath": "C:\\Users\\uabc\\Documents\\GitHub\\FSDI\\FSDI107\\myCalendar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\uabc\\AppData\\Roaming\\NuGet\\NuGet.Config"

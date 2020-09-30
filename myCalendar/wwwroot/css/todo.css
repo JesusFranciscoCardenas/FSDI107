@@ -14,3 +14,51 @@ flex:1;
 .details{
 flex:1;
 }
+
+.content{
+background-color: cadetblue;
+}
+
+.content h4{
+  color: white ;
+  margin-top: 1rem;
+  margin-left: 1rem;
+    }
+
+    .card{
+      display: flex;
+    align-items: center;
+
+    }
+
+
+  .task {
+    margin: .1rem .2rem .1rem .2rem;
+    border: 1px solid;
+    
+}
+.item-body{
+    display: flex;
+    align-items: center;
+}
+.ic-check{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.ic-star {
+    margin-right: 10px;
+}
+.task-content{
+    width: 350px;
+    margin-right: 10px;
+   
+}
+.task-title{
+    font-size: 1.2rem;
+    margin: 0;
+}
+.task-notes{
+    font-size: 1rem;
+    color: grey;
+}

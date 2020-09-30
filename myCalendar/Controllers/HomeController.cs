@@ -37,6 +37,18 @@ namespace myCalendar.Controllers
         {
             return View();
         }
+
+
+        public IActionResult AllTodos()
+        {
+          
+            var list = new List<string>();
+            list.Add("Fisrt");
+            list.Add("Second");
+            list.Add("Last");
+            return Json(list);
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
